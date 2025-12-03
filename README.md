@@ -1,67 +1,94 @@
 <div align="center">
  
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=00BFFF&center=true&vCenter=true&width=1100&height=100&lines=Hi+There!+%F0%9F%91%8B+I'm+Geo+Cherian+Mathew;Full-Stack+Engineer+%7C+AI+Innovator;Building+Next-Gen+Global+Solutions;Turning+Code+Into+Reality" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Manrope&size=50&color=61DAFB&center=true&vCenter=true&width=1000&height=100&lines=Geo+Cherian+Mathew;Full-Stack+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=geo-cherian-mathew-2k28&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy_case" />
+ <p style="font-size: 1.2rem; color: #a1a1aa;">
+   <b>Computer Science Engineer | AI & IoT Specialist | Open Source Contributor</b>
+ </p>
+
+ <br />
+
+ <a href="https://geo-cherian-mathew-2k28.github.io/geo-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2563EB?style=flat&logo=framer&logoColor=white" height="35" />
  </a>
+ &nbsp;
+ <a href="https://www.linkedin.com/in/geo-cherian-mathew/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" height="35" />
+ </a>
+ &nbsp;
+ <a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white" height="35" />
+ </a>
+
 </div>
 
-<br />
+<br/>
+<br/>
 
+<h3 align="center" style="color: #61DAFB;">📊 Engineering Metrics</h3>
 <div align="center">
-  <a href="https://geo-cherian-mathew-2k28.github.io/geo-portfolio/">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00BFFF&labelColor=101010" height="45" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Hire_Me_Now-000000?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=101010" height="45" alt="Hire Me"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/geo-cherian-mathew/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=101010" height="45" alt="LinkedIn"/>
-  </a>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geo-cherian-mathew-2k28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Geo's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geo-cherian-mathew-2k28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geo-cherian-mathew-2k28&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geo-cherian-mathew-2k28&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" height="160" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geo-cherian-mathew-2k28&theme=react&hide_border=true&background=0d1117" height="160" alt="Streak" />
 </div>
 
 <br/>
 
-<details>
- <summary><b>⚡ Click to Reveal: My Story & Mission</b></summary>
- <br/>
- <blockquote>
-  <p><b>I am a Computer Science Engineer and Innovator focused on solving complex global problems through AI and Hardware-Software integration.</b></p>
-  <p>I specialize in building scalable prototypes that bridge the gap between physical devices and intelligent software. My passion lies in creating end-to-end solutions for agriculture, healthcare, and safety systems.</p>
-  <p>🔭 <b>Current Tech Focus:</b> Rust, React.js, Node.js, DevOps, Android Native, Flutter, Python ML</p>
- </blockquote>
-</details>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<h3 align="center">⚡ Professional Bio</h3>
+<p align="center">
+  I am a <b>Computer Science Engineer</b> bridging the gap between hardware and software. Specializing in <b>Artificial Intelligence</b> and <b>IoT</b>, I build systems that solve real-world problems in agriculture and safety. Currently mastering <b>Rust</b> and <b>Scalable Web Architectures</b>.
+</p>
 
 <br/>
 
-<h2 align="center">🚀 Technology Arsenal</h2>
+<h3 align="center">🛠️ Technical Stack</h3>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,bash,react,nextjs,typescript,javascript,html,css,tailwindcss,flutter,kotlin,androidstudio,nodejs,flask,fastapi,postgres,mongodb,firebase,sqlite,tensorflow,opencv,docker,aws,arduino,git,linux&perline=12" />
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react,nextjs" width="45" /><br />
+        <b>Frontend</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs,flask" width="45" /><br />
+        <b>Backend</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=flutter,kotlin" width="45" /><br />
+        <b>Mobile</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=tensorflow,opencv" width="45" /><br />
+        <b>AI / ML</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=rust,cpp" width="45" /><br />
+        <b>System</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=aws,docker" width="45" /><br />
+        <b>DevOps</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<h2 align="center">🏗️ Contribution Timeline</h2>
+<h3 align="center">📅 Contribution History</h3>
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=geo-cherian-mathew-2k28&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geo-cherian-mathew-2k28&theme=react&bg_color=0d1117&hide_border=true&area=true" width="100%">
 </div>
 
+<br/>
+
 <div align="center">
- <br/>
- <img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?s=1&svg=true&v=2" alt="Spotify Playing">
- <br/><br/>
- <img src="https://komarev.com/ghpvc/?username=geo-cherian-mathew-2k28&style=flat-square&label=PROFILE+VIEWS&color=00BFFF" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=geo-cherian-mathew-2k28&theme=onestar&no-frame=true&no-bg=true&margin-w=4" width="700" alt="trophy" />
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=geo-cherian-mathew-2k28&style=flat-square&label=Views&color=blue" alt="Profile Views" />
 </div>
