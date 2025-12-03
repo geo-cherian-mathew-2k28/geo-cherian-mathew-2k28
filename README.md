@@ -25,9 +25,7 @@ My goal with coding is to help others. I enjoy being able to create something th
 Over the last few years, my knowledge and experience with Python, Java, Rust have expanded, as has my main project. I am also fluent in developing well feat. Android Apps via kotlin and jetpack-compose within the java enviroinment. Most recently I've been trying to get better at using next.js and flutter.
 </b></p>
 
-[![Code Time](https://wakatime.com/badge/user/10d55880-38a5-4eda-91a6-9a041dc78976.svg)](https://wakatime.com/@10d55880-38a5-4eda-91a6-9a041dc78976)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.3%20million%20lines%20of%20code-red)
 
 <h2 align="left"><b>Connect with me:</b></h2>
 <p align="left">
