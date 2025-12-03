@@ -36,9 +36,9 @@ Over the last few years, my knowledge and experience with Python, Java, Rust hav
 <h2 align="center"><b>⚒️ Languages-Frameworks-Tools I've used ⚒️</b></h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,c,nextjs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,c" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,flutter,fastapi,flask,mongodb,postgres,sqlite,opencv,tensorflow,docker,netlify,vercel,aws,firebase,cloudflare,bash,arduino,java,androidstudio,md&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,flutter,fastapi,flask,mongodb,postgres,sqlite,opencv,tensorflow,docker,netlify,vercel,aws,firebase,cloudflare,bash,arduino,java,androidstudio,md&perline=6" />
     <br>
 </div>
 
