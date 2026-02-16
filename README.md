@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  <a href="[https://geo-cherian-mathew-2k28.github.io/geo-portfolio/](https://geocherianmathew.in/)">
+  <a href="https://geocherianmathew.in/">
     <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00BFFF&labelColor=101010" height="45" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
