@@ -2,9 +2,11 @@
  
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=00BFFF&center=true&vCenter=true&width=1100&height=100&lines=Hi+There!+%F0%9F%91%8B+I'm+Geo+Cherian+Mathew;Full-Stack+Engineer+%7C+AI+Innovator;Building+Next-Gen+Global+Solutions;Turning+Code+Into+Reality" alt="Typing SVG" />
 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=geo-cherian-mathew-2k28&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy_case" />
- </a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=geo-cherian-mathew-2k28&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy_case" />
+ </a>!-->
 </div>
 
 <br />
@@ -43,9 +45,9 @@
 
 <br/>
 
-<h2 align="center">🚀 Technology Arsenal</h2>
+<h2 align="center">Technology Arsenal i have used so far</h2>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,rust,bash,react,nextjs,typescript,javascript,html,css,tailwindcss,flutter,kotlin,androidstudio,nodejs,flask,fastapi,postgres,mongodb,firebase,sqlite,tensorflow,opencv,docker,aws,arduino,git,linux&perline=12" />
+ <img src="https://skillicons.dev/icons?i=go,python,java,c,bash,react,nextjs,typescript,javascript,html,css,tailwindcss,androidstudio,nodejs,flask,fastapi,supabase,mongodb,sqlite,tensorflow,opencv,docker,arduino,git&perline=12" />
 </div>
 
 <br/>
@@ -56,8 +58,6 @@
 </div>
 
 <div align="center">
- <br/>
- <img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?s=1&svg=true&v=2" alt="Spotify Playing">
  <br/><br/>
  <img src="https://komarev.com/ghpvc/?username=geo-cherian-mathew-2k28&style=flat-square&label=PROFILE+VIEWS&color=00BFFF" alt="Profile Views" />
 </div>
